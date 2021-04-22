@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robithba
 - 👀 I’m interested in Program to assist social-politic environment
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning HTML-CSS-PHP combination
 - 📫 How to reach me @robithba on Instagram 
 
 <!---
